@@ -1,0 +1,37 @@
+{
+  "id": "3470620",
+  "name": "demo02",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "201579",
+      "name": "3.1定位",
+      "font_class": "31dingwei",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2076221",
+      "name": " 定位小",
+      "font_class": "dingweixiao",
+      "unicode": "e87e",
+      "unicode_decimal": 59518
+    },
+    {
+      "icon_id": "5387693",
+      "name": "地图_定位",
+      "font_class": "ditu_dingwei",
+      "unicode": "eb33",
+      "unicode_decimal": 60211
+    },
+    {
+      "icon_id": "5388050",
+      "name": "视觉定位_o",
+      "font_class": "shijuedingwei_o",
+      "unicode": "ebc4",
+      "unicode_decimal": 60356
+    }
+  ]
+}
